@@ -84,7 +84,7 @@ Material:
     - _QueueOffset: 0
     - _ReflectionRefraction: 0.2
     - _Refraction: 0.1
-    - _RippleHeight: 2
+    - _RippleHeight: 3
     - _RippleRefractionStrength: 5
     - _RipplesNormalsMultiplier: 0.5
     - _Smoothness: 1
@@ -97,14 +97,14 @@ Material:
     - _WaveCDirectionZ: 1
     - _WaveDDirectionX: -1
     - _WaveDDirectionZ: -0.5
-    - _WaveFrequency: 1
-    - _WaveFrequencyB: 0.5
+    - _WaveFrequency: 0.2
+    - _WaveFrequencyB: 0.2
     - _WaveFrequencyC: 0.2
-    - _WaveFrequencyD: 0.3
-    - _WaveHeight: 0.5
-    - _WaveHeightB: 0.5
-    - _WaveHeightC: 0.5
-    - _WaveHeightD: 0.5
+    - _WaveFrequencyD: 0.2
+    - _WaveHeight: 0.2
+    - _WaveHeightB: 0.2
+    - _WaveHeightC: 0.2
+    - _WaveHeightD: 0.2
     m_Colors:
     - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
     - _UV1: {r: 0.05, g: 0.05, b: 0, a: 0}
