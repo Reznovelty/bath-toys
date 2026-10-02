@@ -12,5 +12,7 @@ public class Player : MonoBehaviour
         rippleCamera.transform.position = transform.position + Vector3.up * 10;
         Shader.SetGlobalVector("_PlayerPos", rippleCamera.transform.position);
         //ripples.Emit(transform.position + transform.forward, transform.forward, 2, 3, Color.white);
+
+        //print(transform.position);
     }
 }
